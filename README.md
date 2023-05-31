@@ -6,29 +6,30 @@
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
+- 配置地址---输入站源---确定即可  URL站源规则   
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
+- 1.开源版  自用`https://raw.liucn.cc/box/m.json`   
+ 🔰官方原版[TVBox_q215613905_20230302-0924.apk](https://liucn.lanzouf.com/idz8n0r4nbgh)　🔰UI美化版[TVBox_takagen99_20230319-0039.apk](https://liucn.lanzouf.com/iUHmM0r4nbwd)　  
+ 🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-Th3D3)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-vh3D3)　🔰[Pluto Player](https://www.123pan.com/s/dIgRVv-Ah3D3)　
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
+- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`  
+ 🔰原版[影视仓V3_3.0.20_opt.apk](https://liucn.lanzouf.com/iswbz0tcahyd)　🔰原版[影视仓V3_3.0.22_opt.apk](https://liucn.lanzouf.com/ioYaD0tcat2d)　    
+ 🔰原版[影视仓_4.0.22_opt.apk](https://liucn.lanzouf.com/i9f1w0tby3le)　🔰原版[影视仓_4.0.24_opt.apk](https://liucn.lanzouf.com/i8pSo0us3npa)
+- 🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
+- 3.内置版  
+ -小苹果 - 🔰[小苹果影视盒子-1.0.4.apk](https://liucn.lanzouf.com/ipon60ddh4oh)　🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`  
 
+- 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)　🔰[影音壳子1.4.1.apk](https://liucn.lanzouf.com/iZlVl0jsm5kf)  
 
-下载地址 | 使用设置 
+TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
-[TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[懒人版小苹果](https://liucn.lanzouv.com/iFIQ40c484dc)<br />[内置源](http://xpgtv.com) |1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹<br /> `资源更新快，几乎没人用这个方法`<br />一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br />  `别忘记改源地址，防止不能使用` 
-
-TVbox开源版 |Pluto Player改版
----------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box011.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box021.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto041.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box031.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
+![box](https://raw.liucn.cc/box/sub/img/box01.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓01.jpg)
+![box](https://raw.liucn.cc/box/sub/img/box02.jpg) | ![多仓](https://raw.liucn.cc/box/sub/img/多仓02.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
 [https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
-
-[道长dr_py搭建图文演示教程](http://www.liucn.cc/83.html),经过测试Replit免费搭建的站点 只能自用，人多就会爆表。  
 
 ------
 ### 开源仓库
@@ -39,7 +40,7 @@ https://gitee.com/
 https://coding.net/  
 
 https://gitcode.net/  
-https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单  
+https://gitea.com/  
 https://agit.ai/  
 https://notabug.org/  
 
@@ -49,8 +50,8 @@ https://epg.112114.xyz/pp.xml
 
 ------
 ### 给英文不好的朋友
-GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208  
-Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245  
+GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)  
+Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](https://greasyfork.org/zh-CN/scripts/412245)  
 
 ### Github RAW 加速服务
 
