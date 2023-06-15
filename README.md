@@ -8,17 +8,16 @@
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 - 配置地址---输入站源---确定即可  URL站源规则   
 ### 版本
-- 1.开源版  自用`https://raw.liucn.cc/box/m.json`   
+- 1.开源版  自用`https://raw.liucn.cc/box/m.json`　`https://raw.iqiq.io/liu673cn/box/main/m.json`   
  🔰官方原版[TVBox_q215613905_20230302-0924.apk](https://liucn.lanzouf.com/idz8n0r4nbgh)　🔰UI美化版[TVBox_takagen99_20230527-1118.apk](https://liucn.lanzouc.com/iOKTw0xhmbti)　  
  🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-Th3D3)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-vh3D3)　🔰[Pluto Player](https://www.123pan.com/s/dIgRVv-Ah3D3)　
 
-- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`  
- 🔰原版[影视仓V3_3.0.20_opt.apk](https://liucn.lanzouf.com/iswbz0tcahyd)　🔰原版[影视仓V3_3.0.22_opt.apk](https://liucn.lanzouf.com/ioYaD0tcat2d)　    
- 🔰原版[影视仓_4.0.30_opt.apk](https://liucn.lanzouc.com/i5QKK0xluhuh)　🔰原版[影视仓_4.0.31_opt.apk](https://liucn.lanzouc.com/iWFYW0xvsw6b)
-- 🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
+- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`　`https://raw.iqiq.io/liu673cn/box/main/dm.txt`   
+ 🔰原版[影视仓V3-3.0.32.apk](https://www.lanzouj.com/iMXCX0yq1zxa)　🔰原版[影视仓4.0.32_1.apk](https://www.lanzouj.com/itlyT0yq1zda)
+- 🔰UI改版[可视TVMax_1.6.4.apk](https://liucn.lanzouj.com/iavNj0y5b5sj)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
 - 3.内置版  
- -小苹果 - 🔰[小苹果影视盒子-1.0.8.apk](https://liucn.lanzouc.com/iPrb90xmr3vc)　有广告
+  🔰[苹果_4.4.apk](https://liucn.lanzouj.com/iFjfV0yuatwb)　魔改版
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
@@ -36,6 +35,7 @@ https://gitlab.com/
 
 https://gitee.com/  
 https://coding.net/  
+https://www.jihulab.com/
 
 https://gitcode.net/  
 https://gitea.com/  
@@ -73,6 +73,7 @@ Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](htt
 `https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
 
 `https://purge.jsdelivr.net/gh/`  
+🔰[https://itvbox.lanzoub.com/b0erx68gf](https://itvbox.lanzoub.com/b0erx68gf#4e93)  
 
 ------
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[Box](https://docs.qq.com/sheet/DWmt2RklvT3lYZ3dM?tab=BB08J2)，自用请勿宣传。
